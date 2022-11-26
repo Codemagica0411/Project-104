@@ -1,0 +1,20 @@
+#camera 
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+body
+{
+  color: white;
+  background: #c0d3ff;
+  text-align: center;
+}
+span
+{
+  font-size: 30px;
+}
+#result {
+    width: 350px;
+    height: 300px; 
+}
